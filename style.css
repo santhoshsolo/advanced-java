@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#counterApp {
+    display: inline-block;
+}
+
+#currentCount {
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+#error {
+    color: red !important;
+    margin: 10px 0;
+}
+
+.button-container {
+    margin-top: 20px;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
